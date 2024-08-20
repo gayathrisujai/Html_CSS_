@@ -1,0 +1,39 @@
+body{
+    background-image: url('/img/OIP\ \(7\).jpeg');
+    background-size: cover;
+}
+#img_1{
+    width: 50%;
+    height: auto;
+}
+#para1{
+    font-family: 'Times New Roman', Times, serif;
+}
+#para2{
+    font-family: monospace;
+}
+#para3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.grp1{
+    background-color: rgb(223, 186, 131);
+    border: 2px dotted brown;
+}
+.grp2{
+    list-style-type: disc;
+}
+.grp3{
+    list-style-type: square;
+}
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin: 5% 30% 5% 40%;
+}
+table tr{
+    border-bottom: 3px solid red;
+}
+table td{
+    border-right: 3px solid rgb(155, 32, 180);
+    padding: 10px 20px 10px 20px;
+}
